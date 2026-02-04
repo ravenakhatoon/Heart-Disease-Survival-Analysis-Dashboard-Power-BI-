@@ -17,21 +17,39 @@ DAX
 Microsoft Excel
 
 # Key KPIs
+
 Total Patients
+
 Total Deaths
+
 Total Alive
+
 Alive Percentage
+
 # Dashboard Features
+
 Interactive slicers for Gender and Age Group
+
 KPI cards for quick summary
+
 Age-wise survival analysis
+
 Impact analysis of diabetes and cancer
+
 Clean and user-friendly dark theme design
+
 # Key Insights
+
 Survival rate decreases with increasing age
+
 Patients with diabetes show lower survival rates
+
 Male patients have a higher death count compared to females
+
 Cancer presence negatively impacts survival outcomes
+
 # Conclusion
+
 This project demonstrates the use of Power BI and DAX to transform healthcare data into meaningful insights.
+
 The dashboard helps in understanding patient survival trends and supports data-driven decision-making.
