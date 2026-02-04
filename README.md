@@ -3,13 +3,19 @@ This project focuses on analyzing heart disease patient data to understand survi
 
 # Objective
 Analyze survival and death trends among heart disease patients
+
 Compare survival rates across different age groups and gender
+
 Understand the impact of diabetes and cancer on patient survival
 
 # Tools & Technologies
+
 Power BI
+
 DAX
+
 Microsoft Excel
+
 # Key KPIs
 Total Patients
 Total Deaths
