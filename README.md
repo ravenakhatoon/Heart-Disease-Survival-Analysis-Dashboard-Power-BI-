@@ -53,3 +53,7 @@ Cancer presence negatively impacts survival outcomes
 This project demonstrates the use of Power BI and DAX to transform healthcare data into meaningful insights.
 
 The dashboard helps in understanding patient survival trends and supports data-driven decision-making.
+# Dashboard
+<img width="1336" height="752" alt="Heart Disease dashboard" src="https://github.com/user-attachments/assets/d3133ab5-f96d-426a-8c6b-27b108d51ff9" />
+
+
